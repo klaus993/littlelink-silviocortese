@@ -243,6 +243,11 @@ a:hover {
 	border-radius: 0.5rem;   /* 8px rounded corners */
   }
 
+  .avatar--full-width {
+	width: auto;            /* Full width avatar */
+	border-radius: 0%;
+  }
+
 /* Theme System
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Light theme is default above */
